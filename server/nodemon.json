@@ -1,0 +1,9 @@
+{
+    "env": {
+        "GMAIL_USER": "phmclong",
+        "GMAIL_PASSWORD":"kldcudgynbrmfluc",
+        "MONGODB_USER": "phmclong",
+        "MONGODB_PASSWORD": "qPE8Hf22LxNrjcA1",
+        "MONGODB_DATABASSE": "ticket"
+    }
+}
