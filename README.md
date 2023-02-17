@@ -1,6 +1,9 @@
 # Web quản lý rạp chiếu phim
-# TechStack: 
+# TechStack:
+## Front-end:
+- ReactJS (Redux)
+- Material UI
+## Back-end
 - NodeJS (ExpressJS)
 - ORM: Mongoose
-- ReactJS (Redux)
 - MongoDB
